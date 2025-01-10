@@ -1,6 +1,5 @@
 China: https://www.cert.org.cn/publish/english/115/index.html
 Australia: https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories
-UK: https://www.ncsc.gov.uk/section/keep-up-to-date/reports-advisories
 USA: https://www.cisa.gov/news-events/cybersecurity-advisories
 Japan Alert: https://www.jpcert.or.jp/english/at/
 Japan Vuln: https://jvn.jp/en/

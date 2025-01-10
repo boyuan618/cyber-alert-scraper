@@ -66,5 +66,3 @@ def Japan_Vuln():
     driver.quit()
     
     return new_alerts
-
-Japan_Vuln()

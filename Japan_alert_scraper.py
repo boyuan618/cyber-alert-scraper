@@ -69,4 +69,3 @@ def Japan_Alert():
     
     return new_alerts
 
-Japan_Alert()

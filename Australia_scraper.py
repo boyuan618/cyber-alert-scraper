@@ -59,4 +59,3 @@ def Australia():
     
     return new_alerts
 
-Australia()

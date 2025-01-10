@@ -13,45 +13,38 @@ options.add_argument("--window-size=1920,1200")  # Set the window size
 DRIVER_PATH = '/chromedriver.exe'
 
 
-def China():
+def Singapore():
     """
-        Function to get new China alerts
+        Function to get new SingCERT alerts
     """
     # Initialize the Chrome driver with the specified options
     service = Service(executable_path='./chromedriver.exe') 
     driver = webdriver.Chrome(service=service, options=options)
 
     # Your code here to interact with the page
-    driver.get("https://www.cert.org.cn/publish/english/115/index.html")
+    driver.get("https://www.csa.gov.sg/alerts-advisories")
 
     #Retrieve all alerts
-    raw_alerts = driver.find_elements(By.XPATH, "//div[@class='content']/div[not(@class)]")
-    
+    raw_alerts = driver.find_elements(By.XPATH, "/html/body/div[2]/section/div[1]/div/div/div/div[3]/div[1]/div/a")
+
     #Extract alerts in format (Title, Date, Link)
-    alerts = []
+    alerts = []   
 
     for raw_alert in raw_alerts:
         alert = {"title":"", "date":"", "link":""}
-    
-        #Parse text data
-        text_data = raw_alert.text
         
-        #Find where date ends
-        date_index = text_data.rfind("\n") #Date ends at last space
-        
-        
-        alert["title"] = text_data[:date_index].strip().replace(",", " ")
-        alert["date"] = text_data[date_index:].strip()
-        alert["link"] = raw_alert.find_element(By.TAG_NAME, "a").get_attribute("href")
+        alert["title"] = raw_alert.get_attribute("aria-label").replace(",", " ")
+        alert["date"] = raw_alert.find_element(By.CLASS_NAME, "m-card-article__note").text
+        alert["link"] = "https://www.csa.gov.sg/" + raw_alert.get_attribute("href")
         
         #Prevent duplicates
         if alert not in alerts:
             alerts.append(alert)
 
-
+    
     #Check if alert exists
     new_alerts = []
-    with open("china.txt", "r+") as file:
+    with open("singapore.txt", "r+") as file:
         current_alert_titles = [line.split(",")[0] for line in file.readlines()]
 
         for alert in alerts:

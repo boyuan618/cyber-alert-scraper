@@ -1,0 +1,20 @@
+Scammers Impersonating SingCERT Officers,07 Aug 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-098
+Ongoing Mirai Botnet Campaign Targeting Industrial Routers,10 Jan 2025,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2025/al-2025-002
+Active Exploitation of Critical Zero-Day Vulnerability in Ivanti Connect Secure,10 Jan 2025,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2025/al-2025-001
+Security Bulletin 8 Jan 2025,08 Jan 2025,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2025/sb-2025-002
+Security Bulletin 2 Jan 2025,02 Jan 2025,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2025/sb-2025-001
+Vulnerabilities in BeyondTrust Products,31 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-148
+Ongoing Campaign Targeting Chrome Browser Extensions,30 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-147
+Multiple Critical Vulnerabilities in Apache Products,30 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-146
+Security Bulletin 25 Dec 2024,25 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2024/sb-2024-052
+Security Bulletin 18 Dec 2024,18 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2024/sb-2024-051
+Critical Vulnerability in Apache Struts,13 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-145
+Critical Vulnerability in OpenWrt Attended SysUpgrade,12 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-144
+Security Bulletin 11 Dec 2024,11 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2024/sb-2024-050
+Critical Vulnerabilities in Ivanti Cloud Services Appliance,11 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-143
+December 2024 Monthly Patch,11 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-142
+Security Bulletin 4 Dec 2024,04 Dec 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2024/sb-2024-049
+Joint Advisory On The Safeguarding Of Cryptocurrency Assets Against Threat Actors,29 Nov 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/Advisories/2024/ad-2024-022
+How to Protect your Router from Hackers,28 Nov 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/Advisories/2024/ad-2024-021
+Multiple Vulnerabilities in WordPress Plugin,27 Nov 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/alerts/2024/al-2024-141
+Security Bulletin 27 Nov 2024,27 Nov 2024,https://www.csa.gov.sg/https://www.csa.gov.sg/alerts-advisories/security-bulletins/2024/sb-2024-048

@@ -1,0 +1,11 @@
+ALERT,Ivanti Releases Security Updates for Connect Secure  Policy Secure  and ZTA Gateways,JAN 08, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2025/01/08/ivanti-releases-security-updates-connect-secure-policy-secure-and-zta-gateways
+ALERT,CISA Adds One Vulnerability to the KEV Catalog,JAN 08, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2025/01/08/cisa-adds-one-vulnerability-kev-catalog
+ALERT,CISA Releases Two Industrial Control Systems Advisories,JAN 07, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2025/01/07/cisa-releases-two-industrial-control-systems-advisories
+ICS ADVISORY | ICSA-25-007-02,Nedap Librix Ecoreader,JAN 07, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/ics-advisories/icsa-25-007-02
+ICS ADVISORY | ICSA-25-007-01,ABB ASPECT-Enterprise  NEXUS  and MATRIX Series Products,JAN 07, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/ics-advisories/icsa-25-007-01
+ALERT,CISA Adds Three Known Exploited Vulnerabilities to Catalog,JAN 07, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2025/01/07/cisa-adds-three-known-exploited-vulnerabilities-catalog
+ALERT,CISA Adds One Known Exploited Vulnerability to Catalog,DEC 30, 2024,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2024/12/30/cisa-adds-one-known-exploited-vulnerability-catalog
+ALERT,CISA Adds One Known Exploited Vulnerability to Catalog,DEC 23, 2024,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2024/12/23/cisa-adds-one-known-exploited-vulnerability-catalog
+ALERT,Fortinet Releases Security Updates for FortiManager,DEC 20, 2024,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2024/12/20/fortinet-releases-security-updates-fortimanager
+ALERT,CISA Releases Eight Industrial Control Systems Advisories,DEC 19, 2024,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories
+ALERT,CISA Releases the Cybersecurity Performance Goals Adoption Report,JAN 10, 2025,https://www.cisa.gov/https://www.cisa.gov/news-events/alerts/2025/01/10/cisa-releases-cybersecurity-performance-goals-adoption-report
