@@ -45,7 +45,7 @@ def Japan_Alert():
         title_index = text_data.rfind(" ") #Title ends at last space
         
         alert["title"] = text_data[date_index:title_index].strip()
-        alert["date"] = text_data[:date_index]
+        alert["date"] = text_data[:date_index].strip()
         alert["link"] = raw_alert.find_element(By.TAG_NAME, "a").get_attribute("href")
         
         alerts.append(alert)
