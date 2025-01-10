@@ -25,12 +25,10 @@ def China():
     driver.get("https://www.cert.org.cn/publish/english/115/index.html")
 
     #Retrieve all alerts
-    #alert_table = driver.find_element(By.CLASS_NAME, "content")
-
+    raw_alerts = driver.find_elements(By.XPATH, "//div[@class='content']/div[not(@class)]")
+    
     #Extract alerts in format (Title, Date, Link)
     alerts = []
-   
-    raw_alerts = driver.find_elements(By.XPATH, "//div[@class='content']/div[not(@class)]")
 
     for raw_alert in raw_alerts:
         alert = {"title":"", "date":"", "link":""}
@@ -42,11 +40,13 @@ def China():
         date_index = text_data.rfind("\n") #Date ends at last space
         
         
-        alert["title"] = text_data[:date_index].strip()
+        alert["title"] = text_data[:date_index].strip().replace(",", " ")
         alert["date"] = text_data[date_index:].strip()
         alert["link"] = raw_alert.find_element(By.TAG_NAME, "a").get_attribute("href")
         
-        alerts.append(alert)
+        #Prevent duplicates
+        if alert not in alerts:
+            alerts.append(alert)
 
 
     #Check if alert exists

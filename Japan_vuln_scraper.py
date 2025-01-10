@@ -42,11 +42,13 @@ def Japan_Vuln():
         date_index = text_data[1].index("[")
         
         alert["id"] = text_data[0].strip(":")
-        alert["title"] = text_data[1][:date_index].strip()
+        alert["title"] = text_data[1][:date_index].strip().replace(",", " ")
         alert["date"] = text_data[1][date_index:].strip()
         alert["link"] = raw_alert.find_element(By.TAG_NAME, "a").get_attribute("href")
         
-        alerts.append(alert)
+        #Prevent duplicates
+        if alert not in alerts:
+            alerts.append(alert)
 
 
     #Check if alert exists
