@@ -1,0 +1,18 @@
+Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB24-70),2024-09-11,https://www.jpcert.or.jp/english/at/2024/at240018.html
+Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB24-92),2024-12-11,https://www.jpcert.or.jp/english/at/2024/at240024.html
+Microsoft Releases December 2024 Security Updates,2024-12-11,https://www.jpcert.or.jp/english/at/2024/at240023.html
+Microsoft Releases November 2024 Security Updates,2024-11-13,https://www.jpcert.or.jp/english/at/2024/at240021.html
+Microsoft Releases October 2024 Security Updates,2024-10-09,https://www.jpcert.or.jp/english/at/2024/at240019.html
+Microsoft Releases September 2024 Security Updates,2024-09-11,https://www.jpcert.or.jp/english/at/2024/at240017.html
+Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB24-57),2024-08-14,https://www.jpcert.or.jp/english/at/2024/at240016.html
+Microsoft Releases August 2024 Security Updates,2024-08-14,https://www.jpcert.or.jp/english/at/2024/at240015.html
+Microsoft Releases July 2024 Security Updates,2024-07-10,https://www.jpcert.or.jp/english/at/2024/at240014.html
+Microsoft Releases June 2024 Security Updates,2024-06-12,https://www.jpcert.or.jp/english/at/2024/at240012.html
+Microsoft Releases May 2024 Security Updates,2024-05-15,https://www.jpcert.or.jp/english/at/2024/at240011.html
+Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB24-29),2024-05-15,https://www.jpcert.or.jp/english/at/2024/at240010.html
+Microsoft Releases April 2024 Security Updates,2024-04-10,https://www.jpcert.or.jp/english/at/2024/at240008.html
+Microsoft Releases March 2024 Security Updates,2024-03-13,https://www.jpcert.or.jp/english/at/2024/at240007.html
+Microsoft Releases February 2024 Security Updates,2024-02-14,https://www.jpcert.or.jp/english/at/2024/at240006.html
+Alert Regarding Vulnerability in Adobe Acrobat and Reader (APSB24-07),2024-02-14,https://www.jpcert.or.jp/english/at/2024/at240005.html
+Oracle Releases Critical Patch Update, January 2024,2024-01-17,https://www.jpcert.or.jp/english/at/2024/at240003.html
+Microsoft Releases January 2024 Security Updates,2024-01-10,https://www.jpcert.or.jp/english/at/2024/at240001.html

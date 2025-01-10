@@ -1,0 +1,15 @@
+JVN#57428125,PLANEX COMMUNICATIONS MZK-DP300N vulnerable to cross-site scripting,[January 08, 2025 12:00],https://jvn.jp/en/jp/JVN57428125/index.html
+JVNVU#99901190,Multiple vulnerabilities in FUJIFILM Business Innovation Xerox FreeFlow Core,[January 08, 2025 11:00],https://jvn.jp/en/vu/JVNVU99901190/index.html
+JVNVU#92980681,Trend Micro Deep Security 20.0 Agent (for Windows) vulnerable to uncontrolled search path element,[December 24, 2024 09:30],https://jvn.jp/en/vu/JVNVU92980681/index.html
+JVNVU#95720792,Multiple security updates for Trend Micro Apex One and Apex One as a Service (December 2024),[December 20, 2024 16:15],https://jvn.jp/en/vu/JVNVU95720792/index.html
+JVN#46615026,Multiple vulnerabilities in I-O DATA routers UD-LT1 and UD-LT1/EX,[December 18, 2024 13:00],https://jvn.jp/en/jp/JVN46615026/index.html
+JVN#08430039,"Shonen Jump+" App for Android fails to restrict custom URL schemes properly,[December 16, 2024 14:00],https://jvn.jp/en/jp/JVN08430039/index.html
+JVN#61635834,Multiple vulnerabilities in SHARP routers,[December 16, 2024 12:00],https://jvn.jp/en/jp/JVN61635834/index.html
+JVNVU#91084137,Multiple vulnerabilities in FXC AE1021 and AE1021PE,[December 13, 2024 11:00],https://jvn.jp/en/vu/JVNVU91084137/index.html
+JVNVU#90748215,WordPress Plugin "My WP Customize Admin/Frontend" vulnerable to cross-site scripting,[December 13, 2024 10:00],https://jvn.jp/en/vu/JVNVU90748215/index.html
+JVNVU#93693807,Trend Micro Deep Security Agent for Windows and Deep Security Notifier on DSVA vulnerable to OS command injection,[December 05, 2024 14:45],https://jvn.jp/en/vu/JVNVU93693807/index.html
+JVN#03447226,"Skylark" App fails to restrict custom URL schemes properly,[December 03, 2024 11:00],https://jvn.jp/en/jp/JVN03447226/index.html
+JVN#53958863,Multiple vulnerabilities in UNIVERGE IX/IX-R/IX-V series routers,[December 02, 2024 12:00],https://jvn.jp/en/jp/JVN53958863/index.html
+JVN#43845108,Multiple FCNT Android devices vulnerable to authentication bypass,[November 29, 2024 14:00],https://jvn.jp/en/jp/JVN43845108/index.html
+JVNVU#99607268,Vulnerabilities in multiple Dahua Technology products (DHCC-SA-202407-001),[November 29, 2024 10:30],https://jvn.jp/en/vu/JVNVU99607268/index.html
+JVNVU#97531313,Multiple vulnerabilities in FUJI ELECTRIC products,[November 28, 2024 11:00],https://jvn.jp/en/vu/JVNVU97531313/index.html
